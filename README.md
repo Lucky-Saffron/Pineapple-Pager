@@ -1,2 +1,2 @@
 # Pineapple-Pager
-Repository for custom Pineapple Pager Payloads and features
+Repository for custom Pineapple Pager payloads and features
